@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Java developer. Zhumakadyrov Adilet</h1>
 <h3 align="center">A passionate java developer from Kyrgyzstan</h3>
 
-- 🔭 I’m currently working in Aksoft [Billitest](https://github.com/adilet524/billitest)
+- 🔭 I’m currently working in Aksoft
 
 - 🌱 I’m currently learning **Spring, PosgtgreSql**
 
